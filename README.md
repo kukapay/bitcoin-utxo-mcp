@@ -54,8 +54,7 @@ An MCP server that tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block
     }
     ```
     Replace `/path/to/bitcoin-utxo-mcp` with your actual installation path.
- 
-   ```
+
 
 ## Usage
 
