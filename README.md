@@ -2,7 +2,7 @@
 
 An MCP server that tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block statistics, giving AI agents direct access to essential on-chain data.
 
-![GitHub License](https://img.shields.io/github/license/kukapay/bitcoin-utxo-analytics-mcp) 
+![GitHub License](https://img.shields.io/github/license/kukapay/bitcoin-utxo-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
